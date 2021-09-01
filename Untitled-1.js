@@ -26,6 +26,7 @@
 	 */
 	var punycode,
 
+		
 	/** Highest positive signed 32-bit float value */
 	maxInt = 2147483647, // aka. 0x7FFFFFFF or 2^31-1
 
